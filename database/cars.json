@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ea811e0e-ef5c-4a51-bdd4-b5959f01569d",
+    "name": "CX-9",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "d9bd1f10-f898-45ab-bbb1-f1e337a602c4",
+    "name": "Grand Caravan",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "48eeafc1-f63c-4f82-9431-bdd6a582a32b",
+    "name": "Cruze",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  }
+]
