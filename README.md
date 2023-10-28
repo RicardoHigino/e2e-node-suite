@@ -1,7 +1,7 @@
 # E2E-NODE-SUITE
 
-## This repository contains the source code for a simple Node.js API for car rental management created for the purpose of end-to-end (E2E) testing studies.
-
+## Description
+This repository contains the source code for a simple Node.js API for car rental management created for the purpose of end-to-end (E2E) testing studies.
 
 ## Installation
 1. Clone the repository to your local machine using git clone.
